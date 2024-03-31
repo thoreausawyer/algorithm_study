@@ -9,6 +9,5 @@ public class Solution {
             star += "*";
             System.out.println(star);
         }
-        
     }
 }
